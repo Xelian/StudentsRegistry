@@ -4,12 +4,10 @@
 
 Integration tests of Web MVC app with Mocha, running in GitHub actions.
 
-Production @ Heroku: https://nakov-mvc-node-app.herokuapp.com
+Production @Render https://studentsregistry-m1qi.onrender.com
 
-Live demo at https://repl.it/@nakov/MVC-app-integration-tests-example-mocha
+GitHub: https://github.com/QA-Automation-Testing-Demo/StudentsRegistry
 
-GitHub: https://github.com/nakov/MVC-app-integration-tests-example-mocha
-
-Test results: https://github.com/nakov/MVC-app-integration-tests-example-mocha/actions
+Test results: https://github.com/QA-Automation-Testing-Demo/StudentsRegistry/actions
 
 
