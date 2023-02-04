@@ -1,5 +1,4 @@
 name: Execute tests
-
 on: [ push ]
   
 
