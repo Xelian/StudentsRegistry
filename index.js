@@ -1,5 +1,12 @@
 const express = require('express');
 const app = express();
+
+const path = require('path');
+
+app.get('/.....................................html', function(req, res){
+  res.sendFile(path.join(__dirname, 'index.html'));
+});
+
 app.set('view engine', 'pug');
 app.use(require('body-parser')
   .urlencoded({extended:true}));
